@@ -1,9 +1,16 @@
-Not-Uni Web App built I built with a team of 4 people. 
-This app was made with the idea that there are too many free learning resources available on the internet. Sometimes when you want to learn about a topic, it can be overwhelming trying to find a good place to start. Not-Uni is a site where users can sign up, and collate free resources from the internet (which they found useful) into 'modules' for other uses to view, or to come back to themselves. We named it 'Not-Uni' because eventually we would want it to be a place where you could learn for free rather than going to University. The current site only has programming languages as topics, however in the future we would like users to have the ability to make a module cover any topic they desire. 
+
  
-
-
 # Not-Uni
+
+Not-Uni is a Web App built I built with a team of 4 people. //
+//
+This app was made with the idea that there are too many free learning resources available on the internet. Sometimes when you want to learn about a topic, it can be overwhelming trying to find a good place to start. Not-Uni is a site where users can sign up, and collate free resources from the internet (which they found useful) into 'modules' for other uses to view, or to come back to themselves. We named it 'Not-Uni' because eventually we would want it to be a place where you could learn for free rather than going to University. The current site only has programming languages as topics, however in the future we would like users to have the ability to make a module cover any topic they desire. //
+//
+//
+
+
+
+
 
  http://not-uni.herokuapp.com/ 
 
